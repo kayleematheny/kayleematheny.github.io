@@ -11,7 +11,7 @@ title                    : "Kaylee T. Matheny"
 title_separator          : "-"
 name                     : &name "Kaylee T. Matheny"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kayleematheny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kayleematheny/kayleematheny.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaylee T. Matheny"
-  avatar           : "headshot_2021.jpeg"
+  avatar           : "headshot_2021_png.PNG"
   bio              : "PhD Candidate in Sociology of Education and Education Policy"
   location         : # "Stanford, CA"
   employer         : "Stanford University" 
