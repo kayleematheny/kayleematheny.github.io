@@ -83,7 +83,7 @@ author:
   name             : "Kaylee T. Matheny"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Sociology of Education and Education Policy"
-  location         : "Stanford, CA"
+  location         : # "Stanford, CA"
   employer         : "Stanford University" 
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
