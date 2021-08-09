@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Kaylee T. Matheny is a doctoral candidate in Sociology of Education and Education Policy at Stanford University's Center for Education Policy Analysis. She is a recipient of the Institute of Education Sciences (IES) Predoctoral Training Fellowship, Gerald J. Lieberman Fellowship, and Karr Family Fellowship. She uses descriptive, quasi-experimental, and qualitative methods to understand and improve historically marginalized folks' educational experiences and outcomes, with a focus on low-income students. 
+
+Kaylee's current projects include a descriptive project using hierarchical linear modeling to investigate trends in achievement and achievement disparities across the US, a mixed methods project using a quasi-experimental difference-in-differences design to analyze the effects of using the Pell grant to support dual enrollment participation as well as qualitative interviews and site-visits to investigate policy implementation, and a qualitative project using longitudinal, in-depth interviews to investigate parents' conceptualizations of their children's postsecondary pathways. 
+
+Her research centers the opportunities and experiences of historically disadvantaged groups, particularly low-income folks. 
+
+Brian Heseung Kim is a current doctoral candidate at the University of Virginia’s Education Policy program. His primary research interests revolve around supporting students of diverse backgrounds through major decision-making junctures like the postsecondary application process and the post-graduation job application process. Having been both a public high school teacher and a counselor for aspiring first-gen students, Brian has seen just how many hurdles – formal and informal – students can face on the way to better opportunities.
+
+That in mind, figuring out how to use thoughtful policy and interdisciplinary approaches to address these structural inequalities is his main goal as a researcher. He leverages a variety of toolsets in these pursuits, from traditional econometric methods to machine learning and natural language processing techniques, and intends to continue exploring the intersection of education, data science, economics, and ethics in his future work.
+
+His current projects examine the role of teacher recommendation letters in postsecondary access (with special focus on the potential for linguistic biases in the letters themselves), the influence of advising styles in a community college virtual advising intervention, and the disparities in labor market outcomes between community college graduates from high- and low-income families.
+
+If you are interested in Brian’s work and would like to know more, feel free to get in touch (email/twitter/etc.) using the contact page or the links below.This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
